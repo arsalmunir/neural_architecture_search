@@ -1,0 +1,26 @@
+{
+  "init": {
+    "argument_model": "my_model",
+    "get_model": "get_model",
+    "global_unique_id": "6181bc84-9262-41e8-9cbd-3e8867e871b1",
+    "gpus_exclude": [],
+    "hostname": "arsals-mbp.home",
+    "loaded_modules": [],
+    "model_persistence_name": "my_model.pth",
+    "model_pythonic_type": "<class 'model.Network'>",
+    "model_trainable_parameters": 1126,
+    "pyklopp_version": "0.3.2",
+    "python_cwd": "/Users/arsalmunir/Desktop/Work/master_thesis/prerequisite_task",
+    "python_seed_initial": null,
+    "python_seed_local": 6981,
+    "python_seed_random_lower_bound": 0,
+    "python_seed_random_upper_bound": 10000,
+    "save_path_base": "test4",
+    "time_config_end": 1608031409.879822,
+    "time_config_start": 1608031409.863334,
+    "time_model_init_end": 1608031409.892511,
+    "time_model_init_start": 1608031409.888722,
+    "time_model_save_end": 1608031409.896211,
+    "time_model_save_start": 1608031409.892865
+  }
+}
